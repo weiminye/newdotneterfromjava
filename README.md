@@ -8,7 +8,8 @@ Because:
 
 So some company say good bye for Java, say hello for .NET Core.
 
-JiJie Chen inits this list and Weimin Ye makes the repo with English and Chinese both.
+JiJie Chen inits this list in Chinese.
+Weimin Ye creates the repo in English.
 Welcome more contributors.
 Please free feel to let us know if you have any questions and feeback.
 
@@ -22,3 +23,12 @@ What is the similar one in C# of ArrayList?
 More strictly Generic
 Introduction of async and await.
 What are the similar ones in .NET Core of Mvn and Gradle? Where is Porn.xml?
+Could a file contains multiple classes?
+Could a class be partial in mutiple classes?
+Why couldn't have multiple Main() in multiple files?
+Func, Action
+foeach, yield return
+Couldn't complie and run single file?
+Where is Web container?
+How to make Autowired?
+Package-private access level
