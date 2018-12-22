@@ -1,6 +1,6 @@
 # newdotneterfromjava
-中文版本点这里
-this is a guide for new .NETer from Java
+中文版本点这里  
+this is a guide for new .NETer from Java  
 
 Because:
 1. Oracle changes policy, Java shouldn't be free in 2019.
