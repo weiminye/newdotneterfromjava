@@ -8,15 +8,15 @@ Because:
 
 So some company say good bye for Java, say hello for .NET Core.
 
-JiJie Chen inits this list in Chinese.
-Weimin Ye creates the repo in English.
-Welcome more contributors.
+JiJie Chen inits this list in Chinese.  
+Weimin Ye creates the repo in English.  
+Welcome more contributors.  
 Please free feel to let us know if you have any questions and feeback.
 
-Annotation
-How to write 'static final'?
-String, string / Long, long; non-nullable int, long, boolean
-What is LINQ?
+Annotation  
+1. How to write 'static final'?
+2. String, string / Long, long; non-nullable int, long, boolean
+3. What is LINQ?
 What is queryable?
 What is the similar one in C# of HashMap?
 What is the similar one in C# of ArrayList?
