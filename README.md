@@ -1,4 +1,4 @@
-# newdotneterfromjava
+# New .NETer from JAVA
 中文版本点这里  
 this is a guide for new .NETer from Java  
 
@@ -6,7 +6,7 @@ Because:
 1. Oracle changes policy, Java shouldn't be free in 2019.
 2. .NET Core is the most similar technology stack with Java.
 
-So some company say good bye for Java, say hello for .NET Core.
+So some companies say good bye for Java, say hello for .NET Core.
 
 JiJie Chen inits this list in Chinese.  
 Weimin Ye creates the repo in English.  
